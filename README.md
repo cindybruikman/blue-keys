@@ -1,4 +1,4 @@
-# 🎹 Piano Path
+# 🎹 Blue Keys
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -6,21 +6,20 @@
 
 ## 🖼️ Screenshot
 
-> *(Add a screenshot of your app here, for example `img/screenshot.png`)*  
-> ![Screenshot](img/screenshot.png)
+> ![Screenshot](img/readme/readme-screenshot.png)
 
 ---
 
 ## 📖 Overview
 
-**Piano Path** is an interactive web application designed to introduce users to piano keys and music theory in a playful way. Through visual elements and interactive features, users can explore the basic principles of playing the piano.
+**Blue Keys** is an interactive web application designed to introduce users to piano keys and music theory in a playful way. Through visual elements and interactive features, users can explore the basic principles of playing the piano.
+
+> ⚠️ This project is a fictional practice project, created for educational purposes only.
 
 ---
 
 ## ✨ Key Features
 
-- 🎼 **Interactive piano keys**: Users can click on keys to hear tones and see which notes they represent.
-- 📚 **Educational content**: Music theory and piano technique information is presented in an accessible manner.
 - 🎨 **Responsive design**: The app is optimized for both desktop and mobile devices.
 
 ---
@@ -50,13 +49,13 @@ The purpose of this project is to provide an educational tool for beginners inte
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/cindybruikman/piano-path.git
+   git clone https://github.com/cindybruikman/blue-keys.git
    ```
 
 2. **Navigate to the project folder**:
 
    ```bash
-   cd piano-path
+   cd blue-keys
    ```
 
 3. **Open `index.html` in your browser**:
@@ -69,7 +68,7 @@ The purpose of this project is to provide an educational tool for beginners inte
 ## 📁 Project Structure
 
 ```plaintext
-piano-path/
+blue-keys/
 ├── css/
 │   └── styles.css
 ├── img/
@@ -95,6 +94,14 @@ This project is licensed under the **MIT License**.
 
 ---
 
+
+## 📝 Disclaimer
+
+This is a fictional project developed as part of a learning exercise. It is not intended for production use.
+
+---
+
+
 ## 🔗 Project Link
 
-🔗 GitHub Repository: [https://github.com/cindybruikman/piano-path](https://github.com/cindybruikman/piano-path)
+🔗 GitHub Repository: [https://github.com/cindybruikman/blue-keys](https://github.com/cindybruikman/blue-keys)
