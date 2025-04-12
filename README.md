@@ -6,74 +6,74 @@
 
 ## 🖼️ Screenshot
 
-> *(Voeg hier een screenshot toe van je app, bijvoorbeeld `img/screenshot.png`)*  
+> *(Add a screenshot of your app here, for example `img/screenshot.png`)*  
 > ![Screenshot](img/screenshot.png)
 
 ---
 
-## 📖 Overzicht
+## 📖 Overview
 
-**Piano Path** is een interactieve webapplicatie die gebruikers op een speelse manier kennis laat maken met pianotoetsen en muziektheorie. Door middel van visuele elementen en interactieve functies kunnen gebruikers de basisprincipes van het pianospelen verkennen.
-
----
-
-## ✨ Belangrijkste Kenmerken
-
-- 🎼 **Interactieve pianotoetsen**: Gebruikers kunnen op toetsen klikken om tonen te horen en te zien welke noten ze vertegenwoordigen.
-- 📚 **Educatieve content**: Informatie over muziektheorie en pianotechnieken wordt op een toegankelijke manier gepresenteerd.
-- 🎨 **Responsief ontwerp**: De applicatie is geoptimaliseerd voor zowel desktop als mobiele apparaten.
+**Piano Path** is an interactive web application designed to introduce users to piano keys and music theory in a playful way. Through visual elements and interactive features, users can explore the basic principles of playing the piano.
 
 ---
 
-## 🎯 Doel
+## ✨ Key Features
 
-Het doel van dit project is om een educatieve tool te bieden voor beginners die geïnteresseerd zijn in het leren van piano en muziektheorie. Door interactieve elementen te combineren met informatieve content, wordt het leerproces zowel leuk als effectief gemaakt.
-
----
-
-## 🛠️ Gebruikte Technologieën
-
-- **HTML5** – Structuur van de webpagina's.
-- **CSS3** – Styling en lay-out van de applicatie.
-- **JavaScript** – Interactiviteit en dynamische functionaliteiten.
+- 🎼 **Interactive piano keys**: Users can click on keys to hear tones and see which notes they represent.
+- 📚 **Educational content**: Music theory and piano technique information is presented in an accessible manner.
+- 🎨 **Responsive design**: The app is optimized for both desktop and mobile devices.
 
 ---
 
-## ⚙️ Installatie
+## 🎯 Purpose
 
-### ✅ Vereisten
+The purpose of this project is to provide an educational tool for beginners interested in learning piano and music theory. By combining interactive elements with informative content, the learning process becomes both fun and effective.
 
-- Een moderne webbrowser (zoals Chrome, Firefox, Safari of Edge).
+---
 
-### 🚀 Stappen
+## 🛠️ Technologies Used
 
-1. **Clone de repository**:
+- **HTML5** – Structure of the web pages.
+- **CSS3** – Styling and layout of the application.
+- **JavaScript** – Interactivity and dynamic functionalities.
+
+---
+
+## ⚙️ Installation
+
+### ✅ Requirements
+
+- A modern web browser (such as Chrome, Firefox, Safari, or Edge).
+
+### 🚀 Steps
+
+1. **Clone the repository**:
 
    ```bash
    git clone https://github.com/cindybruikman/piano-path.git
    ```
 
-2. **Navigeer naar de projectmap**:
+2. **Navigate to the project folder**:
 
    ```bash
    cd piano-path
    ```
 
-3. **Open `index.html` in je browser**:
+3. **Open `index.html` in your browser**:
 
-   - Dubbelklik op `index.html`
-   - Of sleep het bestand naar je browservenster
+   - Double-click `index.html`
+   - Or drag the file into your browser window
 
 ---
 
-## 📁 Bestandsstructuur
+## 📁 Project Structure
 
 ```plaintext
 piano-path/
 ├── css/
 │   └── styles.css
 ├── img/
-│   └── [afbeeldingen]
+│   └── [images]
 ├── js/
 │   └── script.js
 ├── index.html
@@ -83,15 +83,15 @@ piano-path/
 
 ---
 
-## 🤝 Bijdragen
+## 🤝 Contributing
 
-Contributies zijn welkom! Open gerust een issue of dien een pull request in met verbeteringen of nieuwe features.
+Contributions are welcome! Feel free to open an issue or submit a pull request with improvements or new features.
 
 ---
 
-## 📄 Licentie
+## 📄 License
 
-Dit project is gelicentieerd onder de **MIT License**.
+This project is licensed under the **MIT License**.
 
 ---
 
